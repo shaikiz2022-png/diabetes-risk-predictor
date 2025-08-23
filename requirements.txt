@@ -2,3 +2,7 @@ streamlit
 sckit-learn
 pandas
 numpy
+matplotlib
+seaborn
+joblib
+
